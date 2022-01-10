@@ -1,4 +1,4 @@
-<h1 align="center">Ice-CA or just Ice Cameron</h1>
+<h1 align="center">Ice-CA or just Ice</h1>
 <h3 align="center">ice ice baby (x3)</h3>
 
 <h5 align="center">Currently using: C++, Java, C#, JS/TS</h5>
