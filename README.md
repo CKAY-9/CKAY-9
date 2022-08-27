@@ -1,1 +1,1 @@
-<p align="center"><img src="https://i.giphy.com/media/DSykYnwN0gnAc/giphy.webp"/></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CND-Ice)](https://github.com/CND-Ice)
