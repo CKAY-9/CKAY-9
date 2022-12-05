@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://wakatime.com/@a0da20d7-b6bc-409e-9f4c-d05a49533341"><img src="https://wakatime.com/badge/user/a0da20d7-b6bc-409e-9f4c-d05a49533341.svg" alt="Total time coded since Jan 10 2022" /></a>
+	<img src="https://wakatime.com/badge/user/a0da20d7-b6bc-409e-9f4c-d05a49533341.svg?style=flat" alt="Total time coded since Jan 10 2022" />
 	<br/>
 	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Camerxxn"/>
 	<br/>
