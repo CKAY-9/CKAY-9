@@ -5,4 +5,4 @@
   
 </div>
 
-* If I find a project boring, I will abandon it *
+*If I find a project boring, I will abandon it*
