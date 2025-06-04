@@ -1,4 +1,4 @@
-**Hello**, my name is Cameron (or CKAY-9) and I am primarily a web developer; however, I do like to try out other things and have consistently come back to simple game mods/addons. Right now, I am just trying to get back into programming and am rewriting some of my previous projects (now removed from GitHub) to completion.
+Cameron or CKAY9. Programming whatever.
 
 <div align="center">
   
