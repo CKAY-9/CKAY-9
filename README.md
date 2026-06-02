@@ -1,7 +1,5 @@
-Cameron or CKAY9. Programming whatever.
+Hey, I'm Cameron and I make whatever comes to mind.
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CKAY-9&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CKAY-9&layout=donut&langs_count=3&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=CKAY-9&layout=donut&langs_count=3&theme=tokyonight)
 </div>
